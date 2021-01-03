@@ -101,6 +101,8 @@ input, select, textarea {
 		letter-spacing: -0.025em;
 		line-height: 1.75em;
 	}
+	h1 {
+		font-family: 'Euphoria Script', sans-serif;}
 
 	a {
 		-moz-transition: border-color 0.2s ease-in-out;
